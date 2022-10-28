@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm Jayson Martinez from the Philippines, who loves open source. I mainly code in React / React Native with Typescript.
+
+
 
 <!--
 **Jheysoon/Jheysoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
