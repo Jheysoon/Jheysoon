@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Jayson Martinez from the Philippines, who loves open source. I mainly code in React / React Native with Typescript.
+I'm **Jayson Martinez** from the Philippines, who loves open source. I mainly code in React / React Native with Typescript and PHP.
 
 
 
